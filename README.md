@@ -9,3 +9,20 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
+
+### [View Devpost for mode deatils about the project]()
+
+## Ideation
+
+It took about 3hrs to keep all my ideas on to paper before start building actual app.
+
+![ideation](https://raw.githubusercontent.com/SainagGadangi/ShopSafeApp/master/screenshots/ideation.jpg)
+
+## Screenshots
+![](https://raw.githubusercontent.com/SainagGadangi/ShopSafeApp/master/screenshots/screenshots1.jpg)
+
+![](https://raw.githubusercontent.com/SainagGadangi/ShopSafeApp/master/screenshots/screenshots2.jpg)
+
+![](https://raw.githubusercontent.com/SainagGadangi/ShopSafeApp/master/screenshots/screenshots3.jpg)
+
+![](https://raw.githubusercontent.com/SainagGadangi/ShopSafeApp/master/screenshots/screenshots4.jpg)
