@@ -1,4 +1,3 @@
-# ShopSafeApp
 <h1>Shop Safe App </h1>
 <img alt="LOGO" align="right" height="250" src="./screenshots/shopsafe_logo.png" />
 <p>
