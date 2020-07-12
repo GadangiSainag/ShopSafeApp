@@ -10,7 +10,9 @@
   </a>
 </p>
 
-### [View Devpost for mode deatils about the project]()
+### [View Devpost for mode deatils about the project](https://devpost.com/software/shop-safe-app-cigf21)
+
+### [download the demo build from here](https://drive.google.com/file/d/1rqHJ6C8T-qKGkAApG5Ogs061NPSvNDNc/view?usp=sharing)
 
 ## How to Edit Files
 
@@ -20,7 +22,7 @@
 
 ## Show your support
 
-Give a ⭐️ if this project helped you! and Also like my project n [Devpost]()
+Give a ⭐️ if this project helped you! and Also like my project n [Devpost](https://devpost.com/software/shop-safe-app-cigf21)
 
 ## Ideation
 
