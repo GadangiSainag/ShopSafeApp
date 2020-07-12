@@ -12,6 +12,16 @@
 
 ### [View Devpost for mode deatils about the project]()
 
+## How to Edit Files
+
+* Download [Android Studio](https://developer.android.com/studio)
+* Clone the whole repo
+* Select open project and Point the cloned repo in the Android studio
+
+## Show your support
+
+Give a ⭐️ if this project helped you! and Also like my project n [Devpost]()
+
 ## Ideation
 
 It took about 3hrs to keep all my ideas on to paper before start building actual app.
